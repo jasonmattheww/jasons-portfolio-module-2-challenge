@@ -49,7 +49,6 @@ nav ul li a:hover {
   color: white;
 }
 
-
 li a {
   color: var(--darkblue);
   text-decoration: none;
@@ -187,5 +186,4 @@ li a:hover {
   position: sticky;
   width: 20%;
  }
-
 }
